@@ -4,3 +4,5 @@ Rubberbanding is a screen selection rectangle drawn on the screen while dragging
 https://stackoverflow.com/questions/25191715/unwanted-flickering-rubberband-while-dragging-mouse-on-screen-with-xdrawrectangl
 
 https://askubuntu.com/questions/487725/how-can-i-draw-selection-rectangle-on-screen-for-my-script
+
+I used `#define MAKE_RECT(etype)` from http://web.mit.edu/graphics/src/xgrabsc/xgrabsc.c
